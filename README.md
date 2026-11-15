@@ -1,4 +1,9 @@
-# Histogram Equalization Using OpenCV (Grayscale & Color Images)
+# Record-Histogram processing
+
+## Name : ASHFAK N
+## Reg No : 212225230022
+
+
 
 ---
 
